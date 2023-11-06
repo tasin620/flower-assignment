@@ -1,0 +1,128 @@
+.font-family{
+    font-family: Lato;
+}
+.banner-profile-pic{
+width: 635px;
+height: 800px;
+padding-left: 200px;
+background: lightgray;
+background-position:  no-repeat;
+}
+
+.text-primary{
+    color:#FFFFFF;
+}
+
+.nav-title{
+color:#E55473
+}
+
+.section-description{
+
+    color:#FFFFFF;
+}
+
+.flower2{
+    display:flex;
+}
+
+.small{
+   color: #FFFFFF;
+
+}
+
+.btn-primary{
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+}
+    
+    
+.section-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800px;
+}
+  
+.flower{
+width: 1920px;
+height: 200px;
+background: #FFF;
+}
+
+/* header related styles */
+.header{
+    background-color: #FFF8F3;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.banner{
+    padding:30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-content{
+    max-width: 500px;
+}
+.banner .profile-pic{
+    width: 500px;
+}
+.banner-greeting{
+    font-size: 40px;
+    color: #474747;
+    margin-bottom: 0;
+}
+
+.banner-title{
+    font-size: 85px;
+    font-weight: 700px;
+    margin: 5px;
+    margin-bottom: 20px;
+}
+/*main section style */
+main{
+    max-width: 1140;
+    margin: 0 auto;
+}
+
+/* about section style*/
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.download-cv{
+    text-align:center;
+    margin-top: 50px;
+}
+/* footer style */
+footer{
+    display:flex;
+    background: #111010;
+    width: 1922px;
+    height: 449px;
+
+}
+
+.contact input[type="text"],input[type="email"], textarea {
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color:#757575;
+    border-radius: 5px;
+    background: #FFF;
+    border:0;
+    width: 100%;}
